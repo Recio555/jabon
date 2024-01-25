@@ -1,0 +1,4 @@
+CREATE TABLE producto(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VACHAR(255) NOT NULL
+);
